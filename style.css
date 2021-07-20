@@ -735,6 +735,12 @@ li {
     font-size: 20px;
 }
 
+img {
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+}
+
 .icons {
     margin-bottom: 14px;
     margin-top: 24px;
