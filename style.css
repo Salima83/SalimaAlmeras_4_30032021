@@ -654,6 +654,24 @@ a {
     color: #030303!important;
 }
 
+.citation,
+.citation2,
+.citation3 {
+    font-size: 1.5rem;
+    text-align: center;
+    max-width: 600px;
+    margin: auto;
+    font-weight: 600;
+}
+
+.citation2 {
+    font-style: italic;
+}
+
+.citation {
+    max-width: 400px;
+}
+
 .container {
     max-width: 1000px;
 }
